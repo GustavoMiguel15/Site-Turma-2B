@@ -1,3 +1,5 @@
+body {background-image: linear-gradient(to down, black,blue);}
+
 * {
     margin: 0;
     padding: 0;
@@ -22,4 +24,5 @@
     font-size: 24px;
 }
 
-background-image: linearGradient (to down, black, blue );
+escola {background-image: linear-gradient(to down, black,blue);
+}
